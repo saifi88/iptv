@@ -1045,7 +1045,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="KedaiTV@TVRI Group",TVRI_SPORT_denstv
+#EXTINF:-1  group-logo="https://iili.io/2yfJKBe.png", tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="KedaiTV@TVRI Group",TVRI_SPORT_denstv
 http://rr3.dens.tv/s/s107/index.m3u8
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="KedaiTV@TVRI Group",TVRI_WORLD_ott
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
@@ -1120,7 +1120,7 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="KedaiTV@MPD || FIRST MEDIA CHANNELS",Indosiar
+#EXTINF:-1 group-logo="https://iili.io/2yKD9ob.png", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="KedaiTV@MPD || FIRST MEDIA CHANNELS",Indosiar
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
@@ -2989,7 +2989,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 
-#EXTINF:-1 group-title="KedaiTV@MPD~INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
+#EXTINF:-1 group-logo="https://iili.io/2yKDtqv.jpg", group-title="KedaiTV@MPD~INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
