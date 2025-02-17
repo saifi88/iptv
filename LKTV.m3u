@@ -498,7 +498,7 @@ http://iptv12k.com:35461/654321/123456/2114
 http://iptv12k.com:35461/654321/123456/722
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi_action.png" group-title="KedaiTV@ VIP | VISION+",CINEMACHI ACTION HD
+#EXTINF:-1 group-logo="https://iili.io/2yKQTf2.jpg", tvg-id="" tvg-name="CINEMACHI ACTION HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi_action.png" group-title="KedaiTV@ VIP | VISION+",CINEMACHI ACTION HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830520
 #EXTINF:-1 tvg-id="" tvg-name="CINEMACHI HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi_hd.png" group-title="KedaiTV@ VIP | VISION+",CINEMACHI HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830521
