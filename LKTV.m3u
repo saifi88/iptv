@@ -3302,7 +3302,7 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[IN] STAR MOVIES FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="KedaiTV@ INDIA || MOVIES", STAR MOVIES FHD
+#EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="" tvg-name="[IN] STAR MOVIES FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="KedaiTV@ INDIA || MOVIES", STAR MOVIES FHD
 http://supersonictv.live:8080/SLIM23/SARASOTA14/85549
 #EXTINF:-1 tvg-id="" tvg-name="[IN] BOLLYWOOD PREMIER FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="KedaiTV@ INDIA || MOVIES", BOLLYWOOD PREMIER FHD
 http://supersonictv.live:8080/SLIM23/SARASOTA14/85550
@@ -3874,7 +3874,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://iili.io/2pQu4AF.png" group-title="KedaiTV@ EPL || SPORTS", TW: Now HK Premier Sports 1
+#EXTINF:-1 group-logo="https://iili.io/2yoOrWN.jpg", tvg-logo="https://iili.io/2pQu4AF.png" group-title="KedaiTV@ EPL || SPORTS", TW: Now HK Premier Sports 1
 http://ky-iptv.com:80/MsLady2024/2024MsLady/1391046.ts
 #EXTINF:-1 tvg-logo="https://iili.io/2pQAwJI.png" group-title="KedaiTV@ EPL || SPORTS", TW: Now HK Premier Sports 2
 http://ky-iptv.com:80/MsLady2024/2024MsLady/1391047.ts
@@ -4003,7 +4003,7 @@ http://ky-iptv.com:80/MsLady2024/2024MsLady/515995.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@INDONESIA ➾  SPORTS",PSJ TV
+#EXTINF:-1 group-logo="https://iili.io/2yoMnsa.png", tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@INDONESIA ➾  SPORTS",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@INDONESIA ➾  SPORTS",Football(SOCCER) VISION+
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
@@ -4085,7 +4085,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="KedaiTV@MALAYSIA ➾  SPORTS",MY: ARENA
+#EXTINF:-1 group-logo="https://iili.io/2yoMxqJ.png", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="KedaiTV@MALAYSIA ➾  SPORTS",MY: ARENA
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157485
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="KedaiTV@MALAYSIA ➾  SPORTS",MY: beIN Sports
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157561
@@ -4146,7 +4146,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052691
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="KedaiTV@India ➾ Sports",IN: DD Sports
+#EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="KedaiTV@India ➾ Sports",IN: DD Sports
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/56153
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="KedaiTV@India ➾ Sports",IN: SonySports Ten 1 
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16622
@@ -4253,7 +4253,7 @@ https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TH: beIN Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",TH: beIN Sports 1
+#EXTINF:-1 group-logo="https://iili.io/2yoS0wG.png", tvg-id="" tvg-name="TH: beIN Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="",TH: beIN Sports 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302365
 #EXTINF:-1 tvg-id="" tvg-name="TH: T Sports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-09/e90d9580e214f9ba8d33c402abb4d906.png" group-title="KedaiTV@THAILAND ➾ Sports",TH: T Sports 7
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/305381
@@ -4757,7 +4757,7 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62997
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="KedaiTV@NZ|AUSTRALIA~SPORTS",SKYSPORTS_1
+#EXTINF:-1 group-logo="https://iili.io/2yortob.png", tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="KedaiTV@NZ|AUSTRALIA~SPORTS",SKYSPORTS_1
 http://extraott.com/live/6945574629/7169628753/710948.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="KedaiTV@NZ|AUSTRALIA~SPORTS",SKYSPORTS_2
 http://extraott.com/live/6945574629/7169628753/710947.ts
@@ -5402,7 +5402,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://ccdnblck.xyz:80/images/b7bd64e2ba0016809276c61cbebdb20d.png" group-title="KedaiTV@BRAZILIA ➾ Sports",COMBATE HD
+#EXTINF:-1 group-logo="https://iili.io/2yoMfb1.png", tvg-id="Combatehd.br" tvg-name="COMBATE HD" tvg-logo="http://ccdnblck.xyz:80/images/b7bd64e2ba0016809276c61cbebdb20d.png" group-title="KedaiTV@BRAZILIA ➾ Sports",COMBATE HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 tvg-logo="http://ccdnblck.xyz:80/images/8453b8a9c642d058df65283132b0464c.png" group-title="KedaiTV@BRAZILIA ➾ Sports",Canal do Inter (720p)
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
@@ -5453,7 +5453,7 @@ http://supersonictv.live:8080/SLIM23/SARASOTA14/85324
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="KedaiTV@FRANCE ➾  SPORT",FR: beIN Sports 1
+#EXTINF:-1 group-logo="https://iili.io/2yohQtI.png", tvg-id="" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="KedaiTV@FRANCE ➾  SPORT",FR: beIN Sports 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/144
 #EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="KedaiTV@FRANCE ➾  SPORT",FR: beIN Sports 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/145
@@ -5560,7 +5560,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racing6.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="KedaiTV@Italy ➾ Sports", IT| EUROSPORT 1 HD 
+#EXTINF:-1 group-logo="https://iili.io/2yohLwN.png", tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="KedaiTV@Italy ➾ Sports", IT| EUROSPORT 1 HD 
 http://extraott.com:80/live/3969424152/3723991250/194503.m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="KedaiTV@Italy ➾ Sports", IT| EUROSPORT 2 HD 
 http://extraott.com:80/live/3969424152/3723991250/194504.m3u8 
@@ -5647,7 +5647,7 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/5210
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/15077
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="KedaiTV@PORTUGAL ➾ Sports", SportTV+ FHD 
+#EXTINF:-1 group-logo="https://iili.io/2yoMF5B.png", tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="KedaiTV@PORTUGAL ➾ Sports", SportTV+ FHD 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/13248
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="KedaiTV@PORTUGAL ➾ Sports", SportTV 1 HD 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/7425
@@ -5714,7 +5714,7 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/2738
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[NL] ZIGGO SPORT Voetbal HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@NEDERLAND ➾  SPORTS",[NL] ZIGGO SPORT Voetbal HD
+#EXTINF:-1 group-logo="https://iili.io/2yohtnt.png", tvg-id="" tvg-name="[NL] ZIGGO SPORT Voetbal HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@NEDERLAND ➾  SPORTS",[NL] ZIGGO SPORT Voetbal HD
 http://supersonictv.live:8080/SLIM23/SARASOTA14/84408
 #EXTINF:-1 tvg-id="" tvg-name="[NL] Ziggo Sport Select HD" tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@NEDERLAND ➾  SPORTS",[NL] Ziggo Sport Select HD
 http://supersonictv.live:8080/SLIM23/SARASOTA14/84409
@@ -5751,7 +5751,7 @@ http://supersonictv.live:8080/SLIM23/SARASOTA14/84466
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="KedaiTV@Turkey ➾ Sports", TR| EXXEN SPORT 01 HD 
+#EXTINF:-1 group-logo="https://iili.io/2yoMJ0x.png", tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="KedaiTV@Turkey ➾ Sports", TR| EXXEN SPORT 01 HD 
 http://extraott.com:80/live/3969424152/3723991250/400241742.m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="KedaiTV@Turkey ➾ Sports", TR| EXXEN SPORT 02 HD 
 http://extraott.com:80/live/3969424152/3723991250/400241741.m3u8 
@@ -5827,7 +5827,7 @@ http://extraott.com:80/live/3969424152/3723991250/191537.m3u8
 http://extraott.com:80/live/3969424152/3723991250/62711.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARGOLIDA_SPORT.png?raw=true" group-title="KedaiTV@GREECE ➾  SPORTS",ARGOLIDA SPORT
+#EXTINF:-1 group-logo="https://iili.io/2yoM3JV.png", tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/ARGOLIDA_SPORT.png?raw=true" group-title="KedaiTV@GREECE ➾  SPORTS",ARGOLIDA SPORT
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/And73Smi/IPTV-M3U/blob/main/logo/BOXING_TV.png?raw=true" group-title="KedaiTV@GREECE ➾  SPORTS",BOXING TV
 https://43d8730367094c359169326b2541f48d.mediatailor.us-east-1.amazonaws.com/v1/manifest/cfccecf99f5f9bc53e6a1cf70495cfad66d82f53/dai/b0d773ed-6f74-4b2f-a6a1-8091c95e1951/4.m3u8
@@ -5921,7 +5921,7 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122140
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122141
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@ROMANIA ➾  SPORTS", DIGI SPORT 1
+#EXTINF:-1 group-logo="https://iili.io/2yoGyib.png", tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@ROMANIA ➾  SPORTS", DIGI SPORT 1
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122193
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@ROMANIA ➾  SPORTS", DIGI SPORT 2
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122194
@@ -5950,7 +5950,7 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122303
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@ARGENTINA ➾  SPORTS", DEPORTV
+#EXTINF:-1 group-logo="https://iili.io/2yoMBzF.png", tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@ARGENTINA ➾  SPORTS", DEPORTV
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122332
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@ARGENTINA ➾  SPORTS", DIRECTV SPORTS  [Live During Events Only]
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122333
@@ -6005,7 +6005,7 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122448
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@NORWEGIA ➾  SPORTS", EUROSPORT NORGE
+#EXTINF:-1 group-logo="https://iili.io/2yoGtO7.png", tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@NORWEGIA ➾  SPORTS", EUROSPORT NORGE
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122589
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="KedaiTV@NORWEGIA ➾  SPORTS", EUROSPORT PLUSS 1
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122590
@@ -6029,7 +6029,7 @@ http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122629
 http://lunar.pm:8080/2053829921/SCZGZTb9G7yx/122630
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SE: V Sport Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da06af9e86dd680c4aed3671c915a745.png" group-title="KedaiTV@ Sweden ➾ Sports", V Sport Football
+#EXTINF:-1 group-logo="https://iili.io/2yoGDb9.png", tvg-id="" tvg-name="SE: V Sport Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da06af9e86dd680c4aed3671c915a745.png" group-title="KedaiTV@ Sweden ➾ Sports", V Sport Football
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/6272
 #EXTINF:-1 tvg-id="" tvg-name="SE: C More Live" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d23cef4e48679d9a0534f9e0748013ae.png" group-title="KedaiTV@ Sweden ➾ Sports", C More Live
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/6259
@@ -6151,7 +6151,7 @@ http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/16131
 
 
 
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League FHD" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_premier_league-min.png" group-title="KedaiTV@ UNITED KINGDOM || SPORTS",SkySport Premier League FHD 
+#EXTINF:-1 group-logo="https://iili.io/2yohDMX.png", tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sport Premier League FHD" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_premier_league-min.png" group-title="KedaiTV@ UNITED KINGDOM || SPORTS",SkySport Premier League FHD 
 http://tooontv.com:999/live/ere3444h/agape/119933.ts 
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sport Main Event FHD" tvg-logo="http://51.255.35.36/icons1/uk:/ukicons/sky_uk_sports_premier_league-min.png" group-title="KedaiTV@ UNITED KINGDOM || SPORTS",SkySport Main Event FHD
 http://tooontv.com:999/live/ere3444h/agape/119932.ts 
@@ -6218,7 +6218,7 @@ http://tooontv.com:999/live/ere3444h/agape/1038.ts
 
 
 
-#EXTINF:-1 tvg-id="motorvision.de" tvg-name="DE: Motorvision+ HD" tvg-logo="http://51.255.35.36/icons1/de/motorvision_tv_de.png" group-title="KedaiTV@ GERMANY || SPORTS",Motorvision+ HD 
+#EXTINF:-1 group-logo="https://iili.io/2yoGQJ2.png", tvg-id="motorvision.de" tvg-name="DE: Motorvision+ HD" tvg-logo="http://51.255.35.36/icons1/de/motorvision_tv_de.png" group-title="KedaiTV@ GERMANY || SPORTS",Motorvision+ HD 
 http://tooontv.com:999/live/ere3444h/agape/53385.ts
 #EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="DE: Auto Motor Sport HD" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="KedaiTV@ GERMANY || SPORTS",Auto Motor Sport HD 
 http://tooontv.com:999/live/ere3444h/agape/109037.ts
