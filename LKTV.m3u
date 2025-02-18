@@ -1548,7 +1548,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
-#EXTINF:-1 group-logo="https://iili.io/2yzGQON.jpg" tvg-logo="https://i.ibb.co/tCCZ1B6/soccer.png" group-title="KedaiTV | VISION PLUS", SOCCER CHANNEL
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-logo="https://i.ibb.co/tCCZ1B6/soccer.png" group-title="KedaiTV | VISION PLUS", SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
