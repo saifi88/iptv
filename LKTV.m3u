@@ -3239,68 +3239,232 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="KEDAI TV | ASTRO",RTM TV 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/158357
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="KEDAI TV | ASTRO",RTM TV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/158355
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="KEDAI TV | ASTRO",TV 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/158360
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/92b8034622d9373eed6aa010fdfe3622.png" group-title="KEDAI TV | ASTRO",RTM TV 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/305280
+#EXTINF:-1 tvg-id="" tvg-name="NTV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="KEDAI TV | ASTRO",NTV 7
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/174695
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="KEDAI TV | ASTRO",8TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/171968
+#EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="KEDAI TV | ASTRO",TV 9
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/171953
+#EXTINF:-1 tvg-id="" tvg-name="RTM TV Okey" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/e8b9f227d06fe69da095945313e62c3f.png" group-title="KEDAI TV | ASTRO",RTM TV Okey
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306504
+#EXTINF:-1 tvg-id="" tvg-name="Suke TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/f421ea536ec3f8efae04aa54cc206d11.png" group-title="KEDAI TV | ASTRO",Suke TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306505
+#EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/85ffb70c58e119f788722dc3b836a4ad.png" group-title="KEDAI TV | ASTRO",TV Alhijrah
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157491
+#EXTINF:-1 tvg-id="" tvg-name="TV Sarawak" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/35fb700579ac30c2d645b95f40e70dc5.png" group-title="KEDAI TV | ASTRO",TV Sarawak
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/247442
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KEDAI TV | ASTRO",TVN
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/302748
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="KEDAI TV | ASTRO",TVN Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297499
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="KEDAI TV | ASTRO",Warner TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157550
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/5eabe0c961429618554b9009d9a2fe6a.png" group-title="KEDAI TV | ASTRO",ZooMoo
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/285308
+#EXTINF:-1 tvg-id="" tvg-name="Astro AEC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-07/59e1195922dfbaa08b9d5633c30e8f50.png" group-title="KEDAI TV | ASTRO",Astro AEC
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/247409
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 354" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bc43d98ee1b43a6639c118d61bbbd5a8.png" group-title="KEDAI TV | ASTRO",Astro AOD 354
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/247413
+#EXTINF:-1 tvg-id="" tvg-name="Astro IQIYI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/9bfeddaab696001c507a5f126595aaa2.png" group-title="KEDAI TV | ASTRO",Astro IQIYI
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306494
+#EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="KEDAI TV | ASTRO",Astro Oasis
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157489
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="KEDAI TV | ASTRO",Astro Prima
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157467
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="KEDAI TV | ASTRO",Astro Arena
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157485
+#EXTINF:-1 tvg-id="" tvg-name="Astro Aura" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/8a7da6b01b1d3530bd1b1d4d4bcc8a4e.png" group-title="KEDAI TV | ASTRO",Astro Aura
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/171986
+#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="KEDAI TV | ASTRO",Astro Awani
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157478
+#EXTINF:-1 tvg-id="" tvg-name="Astro Ceria" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a52767c0cbab7a73d4554f002abe4b31.png" group-title="KEDAI TV | ASTRO",Astro Ceria
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157481
+#EXTINF:-1 tvg-id="" tvg-name="Astro Citra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/a7cbb090c3d95828339e5b2ca15d5b92.png" group-title="KEDAI TV | ASTRO",Astro Citra
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157569
+#EXTINF:-1 tvg-id="" tvg-name="Astro Vaanavil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="KEDAI TV | ASTRO",Astro Vaanavil
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/201163
+#EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/67d95e34e888d29f89126611bbb61d7a.png" group-title="KEDAI TV | ASTRO",Awesome TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306499
+#EXTINF:-1 tvg-id="" tvg-name="Berita RTM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6604503e70b58b9e14aeb5cb9d645911.png" group-title="KEDAI TV | ASTRO",Berita RTM
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264516
+#EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="KEDAI TV | ASTRO",RTB Sukmaindera
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/299546
+#EXTINF:-1 tvg-id="" tvg-name="Bernama TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5e74e05594b34f529cc9a9d9fbabaf80.png" group-title="KEDAI TV | ASTRO",Bernama TV
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264517
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="KEDAI TV | ASTRO",Celestial Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/174687
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/980be02e8c814a2c6fff4b855039de81.png" group-title="KEDAI TV | ASTRO",Colors
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306502
+#EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="KEDAI TV | ASTRO",Crime+ Investigation
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157554
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d0e9f7b4beedf023994c4d1937b97aca.png" group-title="KEDAI TV | ASTRO",Discovery Channel
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157528
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="KEDAI TV | ASTRO",Discovery Science
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157530
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0ed674b5022860c2ed32d34a6dd36b7a.png" group-title="KEDAI TV | ASTRO",HBO
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157518
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="KEDAI TV | ASTRO",Hits
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157545
+#EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="KEDAI TV | ASTRO",HITS Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157477
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/66fa4b713f7285f31deb54c97d10bf3c.jpg" group-title="KEDAI TV | ASTRO",KIX
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/299963
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="KEDAI TV | ASTRO",Nick Jr
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157546
+#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/779a327b162bedaf7ba64567b0a05447.png" group-title="KEDAI TV | ASTRO",nickelodeon
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157541
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/724b0efaef7a6f098800a18489d4d7a6.svg" group-title="KEDAI TV | ASTRO",Animal Planet
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/301290
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="KEDAI TV | ASTRO",Animax
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157486
 
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", BOO
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856856
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Showcase Movies
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856905
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CCTV4
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856857
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Celestial
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856858
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Celestial Classic Movies
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856859
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", HBO Family
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856881
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", HBO Hits
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856882
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", HBO Signature
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856883
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Eurosport
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856875
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Golf Channel
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856879
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", beIN Sports
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856845
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", beIN Sports 2
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856846
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", beIN Sports 3
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856848
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Sports SPO TV
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856907
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", SPOTV2
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856908
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Astro Premier 1
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856818
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Astro Badminton
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856819
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TV Okey
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856916
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Star Vijay
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856909
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Astro Vellithirai
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856839
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", ZEE Tamil
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856933
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Rania
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856820
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", AXN
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856843
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Bisnet Adventure
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856854
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Bloomberg TV
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856855
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CNA
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856862
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Crime Investigation
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856865
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CTI Asia
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856866
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", DISCOVERY ASIA
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856867
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Discovery Asia
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856868
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Discovery Channel
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856869
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Discovery Science
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856870
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Disney Junior
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856871
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Dmax
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856872
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Dream Works
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856873
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", DW
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856874
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Food Network
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856877
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Global Trekker
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856878
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB Classic
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856920
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB E News
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856921
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB Jade
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856922
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB News
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856923
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVB Xing He
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856924
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVBS Asia
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856925
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVBS News
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856926
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", tvN
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856927
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", tvN Movies
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856928
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TVS
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856929
+#EXTINF:-1 group-title="KEDAI TV | ASTRO" tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", Warner TV
+http://ua-iptv.com:8080/j.p.lowry714@gmail.com/BZJFU5cunM/856930
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-logo="https://iili.io/2yxqNJp.png", group-title="KedaiTV | ASTRO" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste_MPD~OttNavigator 
-https://068877e598224108a60fb9cd5db3717f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="KedaiTV | ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",Drama Hotpot_MPD~OttNavigator
-https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="KedaiTV | ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",Filem Mantap_MPD~OttNavigator
-https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="KedaiTV | ASTRO" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral_MPD~OttNavigator
-https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="KedaiTV | ASTRO" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat_MPD~OttNavigator
-https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
-
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1~~
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2~~
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3~~
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv~~
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6~~
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM~~
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV~~
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9~~
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM~~
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM~~
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama Tv~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Bernama.png",Bernama Tv~~
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS~~
 https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/TvIkim.png", TV Ikim~~
 https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/AstroAwani.png", Astro Awani~~
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema~~
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png", Tv Alhijrah~~
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat~~
 https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara~~
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
-#EXTINF:-1  group-title="KedaiTV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork~~
+#EXTINF:-1  group-title="KEDAI TV | ASTRO" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork~~
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
-
-
 
 #EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="" tvg-name="[IN] STAR MOVIES FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="KedaiTV | INDIA MOVIES", STAR MOVIES FHD
 http://supersonictv.live:8080/SLIM23/SARASOTA14/85549
