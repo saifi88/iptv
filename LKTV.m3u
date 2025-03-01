@@ -3239,7 +3239,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="KEDAI TV | ASTRO",RTM TV 1
+#EXTINF:-1 group-logo="https://iili.io/32Yp7nV.png" tvg-id="" tvg-name="RTM TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="KEDAI TV | ASTRO",RTM TV 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/158357
 #EXTINF:-1 tvg-id="" tvg-name="RTM TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="KEDAI TV | ASTRO",RTM TV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/158355
