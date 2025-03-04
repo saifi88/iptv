@@ -1551,19 +1551,19 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
-#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="SoccerChannel.id" tvg-logo="https://iili.io/3dGqm1R.png" group-title="KedaiTV | VISION PLUS", SOCCER CHANNEL
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="Soccer Channel.id" tvg-logo="https://iili.io/3dGqm1R.png" group-title="KedaiTV | VISION PLUS", SOCCER CHANNEL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-id="Sportstars1" tvg-logo="https://iili.io/3dGudW7.png" group-title="KedaiTV | VISION PLUS", SPORTSTARS1
+#EXTINF:-1 tvg-id="Sportstars.id" tvg-logo="https://iili.io/3dGudW7.png" group-title="KedaiTV | VISION PLUS", SPORTSTARS1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-id="Sportstars2" tvg-logo="https://iili.io/3dGuJxS.png" group-title="KedaiTV | VISION PLUS", SPORTSTARS2
+#EXTINF:-1 tvg-id="Sportstars 2.id" tvg-logo="https://iili.io/3dGuJxS.png" group-title="KedaiTV | VISION PLUS", SPORTSTARS2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1575,25 +1575,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://iili.io/3dGaVB2.png" group-title="KedaiTV | VISION PLUS", SPOTV2
+#EXTINF:-1 tvg-id="SPOTV 2.id" tvg-logo="https://iili.io/3dGaVB2.png" group-title="KedaiTV | VISION PLUS", SPOTV2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="FightSports" tvg-logo="https://iili.io/3dLFPqP.png" group-title="KedaiTV | VISION PLUS", FIGHT SPORTS
+#EXTINF:-1 tvg-id="Fight Sports.id" tvg-logo="https://iili.io/3dLFPqP.png" group-title="KedaiTV | VISION PLUS", FIGHT SPORTS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/3dQgp8g.jpg" group-title="KedaiTV | VISION PLUS", IMC
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://iili.io/3dQgp8g.jpg" group-title="KedaiTV | VISION PLUS", IMC
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-name="ID: RCTI" tvg-logo="https://iili.io/3dLNjrx.jpg" group-title="KedaiTV | VISION PLUS", RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://iili.io/3dLNjrx.jpg" group-title="KedaiTV | VISION PLUS", RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
@@ -1605,19 +1605,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-name="ID: GTV" tvg-logo="https://iili.io/3dLwhHN.jpg" group-title="KedaiTV | VISION PLUS", GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://iili.io/3dLwhHN.jpg" group-title="KedaiTV | VISION PLUS", GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/3dLk4Eu.png" group-title="KedaiTV | VISION PLUS", iNEWS
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://iili.io/3dLk4Eu.png" group-title="KedaiTV | VISION PLUS", iNEWS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="KedaiTV | VISION PLUS", INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="KedaiTV | VISION PLUS", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
@@ -1636,7 +1636,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-name="ID: Trans TV" tvg-logo="https://iili.io/3dLXxoJ.png" group-title="KedaiTV | VISION PLUS", TRANS TV
+#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://iili.io/3dLXxoJ.png" group-title="KedaiTV | VISION PLUS", TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
