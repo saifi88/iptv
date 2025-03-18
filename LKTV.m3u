@@ -4401,7 +4401,16 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052691
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/3f28a637-5677-49fb-ad4d-126248820b5b.png?w=1200&f=PNG&p=true&q=60" group-title="KedaiTV | INDIA SPORTS",TNT Sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/64209d2e-8a4c-4056-bb24-836ce9f7922d.png?w=1200&f=PNG&p=true&q=60" group-title="KedaiTV | INDIA SPORTS",TNT Sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/2c51d406-d2dc-49b0-87fa-d240b8baf8ba.png?bf=0&f=jpg&p=true&q=70&w=1920" group-title="KedaiTV | INDIA SPORTS", TNT Sports 3
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/18/bc8e2117-5268-4e01-bbe9-e1b69a2f63bf.png?w=1200&f=PNG&p=true&q=60" group-title="KedaiTV | INDIA SPORTS",TNT Sports 4
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEsAfxkX3BaHIsP40KRI-qURsKK1OqootMHV6RjpvPghxiwbnAGF9cWhr&s=10" group-title="KedaiTV | INDIA SPORTS", TNT Sports 5
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
 #EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="KedaiTV | INDIA SPORTS",IN: DD Sports
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/56153
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="KedaiTV | INDIA SPORTS",IN: SonySports Ten 1 
