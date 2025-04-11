@@ -77,6 +77,26 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="KedaiTV | VISION PLUS",SBS SPORTS HD
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="KedaiTV | VISION PLUS",KBSN SPORTS HD
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/sbs.png" group-title="KedaiTV | VISION PLUS",SBS SPORTS LIVE EVEN
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/FlyinDVB/logo/refs/heads/main/kbsn.png" group-title="KedaiTV | VISION PLUS",KBSN SPORTS LIVE EVEN
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/720.stream/hdntl=exp=1744137586~acl=*%2ffhsevbmnunr26yg17wj9j4kytled1knc20c3%2f*~data=hdntl~hmac=2bdd285c8733632a61428f8973b626204c7db112479a56660a465cb2c45e43ba/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Fight Sports.id" tvg-logo="https://iili.io/3dLFPqP.png" group-title="KedaiTV | VISION PLUS", FIGHT SPORTS
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
