@@ -2974,6 +2974,40 @@ https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 #EXTINF:-1  group-title="ASTRO MALAYSIA" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/CN.png",CartoonNetwork~~
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" tvg-chno="sony-pix-hd" group-title="Movies",Sony PIX HD
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
+#EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="IN: &Flix" tvg-name="IN: & flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/20ea2b784d36366ef591d0ab565160f2.png" group-title="INDIA CHANNEL", & flix
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/45506
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="INDIA CHANNEL", Star Movies
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11511
+#EXTINF:-1 tvg-id="movies-now-hd" tvg-name="Movies Now HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/wthfwe.jpeg" tvg-chno="movies-now-hd" group-title="INDIA CHANNEL",Movies Now HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
+https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
+#EXTINF:-1 tvg-id="mnx-hd" tvg-name="MNX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/vunjev.jpeg" tvg-chno="mnx-hd" group-title="INDIA CHANNEL",MNX HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
+#EXTINF:-1 tvg-id="mn-plus-hd" tvg-name="MN Plus HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/leazcc.jpeg" tvg-chno="mn-plus-hd" group-title="INDIA CHANNEL",MN Plus HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
+https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
+#EXTINF:-1 tvg-id="romedy-now" tvg-name="Romedy Now" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/nchght.jpeg" tvg-chno="romedy-now" group-title="INDIA CHANNEL",Romedy Now
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/romedy-now/drmLicense
+https://otttv.co.in/d2h/livestream/romedy-now/manifest.mpd
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="INDIA CHANNEL",Discovery
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2997,16 +3031,12 @@ https://otttv.co.in/d2h/livestream/discovery-science/manifest.mpd
 https://otttv.co.in/d2h/livestream/discovery-turbo/manifest.mpd
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" tvg-chno="sony-bbc-earth-hd" group-title="INDIA CHANNEL",Sony BBC Earth HD
 https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8
-#EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="IN: &Flix" tvg-name="IN: & flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/20ea2b784d36366ef591d0ab565160f2.png" group-title="INDIA CHANNEL", & flix
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/45506
 #EXTINF:-1 tvg-id="" tvg-name="IN: &Pictures" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="INDIA CHANNEL", & pictures
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16958
 #EXTINF:-1 tvg-id="" tvg-name="IN: &Prive" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b40ff3919913006ac66e477829eeab35.png" group-title="INDIA CHANNEL", & prive
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/49557
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/148794467c949eb960c3369577370edd.png" group-title="INDIA CHANNEL", Sony Pix
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/49539
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="INDIA CHANNEL", Star Movies
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11511
 #EXTINF:-1 tvg-id="" tvg-name="[IN] STAR MOVIES FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="INDIA CHANNEL", STAR MOVIES FHD
 http://supersonictv.live:8080/SLIM23/SARASOTA14/85549
 #EXTINF:-1 tvg-id="" tvg-name="[IN] BOLLYWOOD PREMIER FHD" tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="INDIA CHANNEL", BOLLYWOOD PREMIER FHD
@@ -3066,34 +3096,6 @@ http://supersonictv.live:8080/SLIM23/SARASOTA14/85605
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/-pictures/drmLicense
 https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
-#EXTINF:-1 tvg-id="movies-now-hd" tvg-name="Movies Now HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/wthfwe.jpeg" tvg-chno="movies-now-hd" group-title="INDIA CHANNEL",Movies Now HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/movies-now-hd/drmLicense
-https://otttv.co.in/d2h/livestream/movies-now-hd/manifest.mpd
-#EXTINF:-1 tvg-id="mnx-hd" tvg-name="MNX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/vunjev.jpeg" tvg-chno="mnx-hd" group-title="INDIA CHANNEL",MNX HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mnx-hd/drmLicense
-https://otttv.co.in/d2h/livestream/mnx-hd/manifest.mpd
-#EXTINF:-1 tvg-id="mn-plus-hd" tvg-name="MN Plus HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/leazcc.jpeg" tvg-chno="mn-plus-hd" group-title="INDIA CHANNEL",MN Plus HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/mn-plus-hd/drmLicense
-https://otttv.co.in/d2h/livestream/mn-plus-hd/manifest.mpd
-#EXTINF:-1 tvg-id="romedy-now" tvg-name="Romedy Now" tvg-language="English" tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/channel/logos/nchght.jpeg" tvg-chno="romedy-now" group-title="INDIA CHANNEL",Romedy Now
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/romedy-now/drmLicense
-https://otttv.co.in/d2h/livestream/romedy-now/manifest.mpd
 #EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" tvg-chno="sony-max" group-title="INDIA CHANNEL",Sony MAX
 https://otttv.co.in/d2h/livestream/sony-max/master.m3u8
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" tvg-chno="sony-max-hd" group-title="INDIA CHANNEL",Sony MAX HD
