@@ -35,7 +35,7 @@ http://mag.king-4k.cc:80/fadil2023/5094F371/719894
 #EXTINF:-1 tvg-ID="" tvg-name="MK ▎ARENA SPORT 10" tvg-logo="https://img.logo-cdn.cc//arenasport10.png" group-title="KedaiTV | VISION PLUS",ARENA SPORT 10
 http://mag.king-4k.cc:80/fadil2023/5094F371/719886
 
-#EXTINF: -1 tvg-logo="https://iili.io/3cuRxEb.png" group-title="KedaiTV | VISION PLUS", BEIN SPORTS 1
+#EXTINF: -1 tvg-logo="https://iili.io/3EQBM3Q.png" group-title="KedaiTV | VISION PLUS", BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
@@ -53,13 +53,13 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="KedaiTV | VISION PLUS" tvg-logo="https://i.ibb.co.com/b7vxrzY/Beinsport4.png", BEIN SPORT 4
+#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="KedaiTV | VISION PLUS" tvg-logo="https://iili.io/3EQC7lR.jpg", BEIN SPORT 4
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-#EXTINF:-1 tvg-id="beIN SPORT 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="KedaiTV | VISION PLUS" tvg-logo="https://i.ibb.co.com/4273HXd/Beinsport5.png", BEIN SPORT 5
+#EXTINF:-1 tvg-id="beIN SPORT 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="KedaiTV | VISION PLUS" tvg-logo="https://iili.io/3EQnRI9.jpg", BEIN SPORT 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: SPOTV" tvg-logo="https://iili.io/3dGaGLl.jpg" group-title="KedaiTV | VISION PLUS", SPOTV
@@ -205,7 +205,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyl
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="KedaiTV | VISION PLUS" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Channel Jowo
+#EXTINF:-1 tvg-logo="https://iili.io/3EQzZYv.jpg" group-title="KedaiTV | VISION PLUS" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://iili.io/3dLYfKg.png" group-title="KedaiTV | VISION PLUS", JTV
