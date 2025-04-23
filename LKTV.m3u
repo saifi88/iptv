@@ -168,10 +168,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
 #EXTINF:-1 tvg-name="ID: TV One" tvg-logo="https://iili.io/3dL55Xt.png" group-title="VISION PLUS", TVONE
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 
 #EXTINF:-1 tvg-name="[ID] Metro TV" tvg-logo="https://iili.io/3dL54Q1.jpg" group-title="VISION PLUS", METRO TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -184,10 +184,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-name="ID: TVRI" tvg-logo="https://iili.io/3dLaZYb.jpg" group-title="VISION PLUS", TVRI
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
-https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -227,10 +226,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash/BaliTV.mpd
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #EXTINF:-1 tvg-id="SindoNews.id" tvg-logo="https://iili.io/3dLekWF.png" group-title="VISION PLUS", SindoNews
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="VISION PLUS",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
