@@ -390,7 +390,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://iili.io/3l4WeCQ.jpg" group-title="VISION PLUS",HBO
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="VISION PLUS",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="VISION PLUS",HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -400,7 +400,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="VISION PLUS",HBO Hits
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
 
-#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="VISION PLUS",HBO Family 
+#EXTINF:-1 tvg-id="HBO Family" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="VISION PLUS",HBO Family 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -427,13 +427,13 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
-#EXTINF:-1 tvg-id="Celestial Movies.id" tvg-logo="https://iili.io/3dLgFln.jpg" group-title="VISION PLUS", CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="Celestial Movies" tvg-logo="https://iili.io/3dLgFln.jpg" group-title="VISION PLUS", CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
 
-#EXTINF:-1 tvg-id="CCM.id" tvg-logo="https://iili.io/3dLgvsI.png" group-title="VISION PLUS", Celestial Classic Movie
+#EXTINF:-1 tvg-id="CCM" tvg-logo="https://iili.io/3dLgvsI.png" group-title="VISION PLUS", Celestial Classic Movie
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
@@ -3021,7 +3021,7 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" tvg-chno="sony-pix-hd" group-title="INDIA CHANNEL",Sony PIX HD
 https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8
-#EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="IN: &Flix" tvg-name="IN: & flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/20ea2b784d36366ef591d0ab565160f2.png" group-title="INDIA CHANNEL", & flix
+#EXTINF:-1 group-logo="https://iili.io/2yow0B9.png", tvg-id="IN: &Flix" tvg-name="IN: & flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/20ea2b784d36366ef591d0ab565160f2.png" group-title="INDIA CHANNEL", &Flix
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/45506
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="INDIA CHANNEL", Star Movies
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/11511
